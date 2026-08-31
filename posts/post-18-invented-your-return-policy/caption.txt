@@ -1,0 +1,25 @@
+Some AI will swear your cotton tee is waterproof. Kindly, confidently, and in your brand voice.
+
+Here is what it looks like from the inside.
+
+Customer: "If it does not fit can I return it after 60 days?"
+
+Bot: "Absolutely, we offer a 60 day returns window on all items, no questions asked."
+
+Your actual policy: 30 days, unworn, tags attached.
+
+The bot has never read your policy. It was never connected to it.
+
+And it is not lying, which is the part worth understanding. A language model predicts what should come next. With no source to check, the most plausible next words are a normal sounding returns policy, and most stores say 30 or 60 days, so it picks one. Plausible is not true, and there is no mechanism in it for hesitating.
+
+The cost is not one bad answer. It is the sale you keep and then lose, the return shipping both ways, the public review about it, and the argument in between. The bot saved you nothing.
+
+Then the awkward part. It said it on your website, wearing your logo. A customer told sixty days has a reasonable expectation of sixty days, and "that was the AI" is not a position you want to defend in public.
+
+The fix has a name, and we get to it properly in a few posts: grounding. The system has to retrieve a real fact from your real store before it is allowed to say anything, and it is not allowed to guess when it finds nothing.
+
+Save this one.
+
+Has a bot ever promised something on your behalf? Tell us what it said.
+
+#Shopify #ShopifyStore #ShopifyStoreOwner #EcommerceBusiness #DTCBrand #EcommerceTips #ShopifyApps #EcommerceGrowth #CustomerExperience #CustomerSupport #AskZoye #AskZoyeAI #AIHallucination #AITransparency #EcommerceAI #AIRisk

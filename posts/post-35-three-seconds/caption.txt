@@ -1,0 +1,19 @@
+Three seconds. Here's everything that happens inside them.
+
+0.0 to 0.3s. Intent parsed. Not keywords. What is being asked, about which product, and whether this is a pre purchase question or a post purchase one, because those get handled differently.
+
+0.3 to 1.4s. Store data retrieved. The product, its material composition, its stock position, the relevant policy, and the order if there is one. This is the longest step and the one that separates an answer from a guess.
+
+1.4 to 2.2s. Answer grounded and checked. The reply is built only from what came back. Anything that cannot be traced to a retrieved fact does not survive this step, which is exactly where an invented returns policy would otherwise appear.
+
+2.2 to 2.6s. Language matched. Whichever of 50+ languages the question arrived in, the answer leaves in. Not a translation layer bolted on afterwards, which is how "water resistant" becomes "waterproof".
+
+2.6 to 3.0s. Escalation assessed, then it replies. The last check before anything is sent: is this one of the four that belongs to a human? If yes, nothing is sent and a person is briefed instead.
+
+Then it replies. About three seconds after the shopper hit send.
+
+Worth saying which step is the expensive one. Retrieval. Generating text is fast and cheap. Going and finding the right fact in a real catalogue, every time, is the part that costs something, and it is the part most systems skip.
+
+Save this if you have ever wondered what "AI answer" actually means.
+
+#Shopify #ShopifyStore #ShopifyStoreOwner #EcommerceBusiness #DTCBrand #EcommerceTips #ShopifyApps #EcommerceGrowth #CustomerExperience #CustomerSupport #AskZoye #AskZoyeAI #AskZoye #EcommerceAI #GroundedAI #HowItWorks

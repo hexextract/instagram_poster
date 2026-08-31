@@ -1,0 +1,21 @@
+Your store is leaking money in five places. None of them appear in Shopify Analytics.
+
+All five live in your inbox.
+
+1. The pre-purchase question answered too late. A question before a purchase is an objection with a deadline. Miss the deadline and you did not give bad service, you lost the sale.
+
+2. The hours your store trades without you. The storefront runs 24 hours. The answers run about eight. That gap is not downtime, it is trading time nobody is covering.
+
+3. The first reply that took nine hours. Resolution time is what teams report. First reply is what shoppers feel. Only one of them decides whether they wait.
+
+4. "Where is my order?" forty times a week. Two minutes each, and not one of them makes you a penny.
+
+5. The basket with one doubt behind it. Most abandoned carts are not indecision, they are one specific unanswered question. You will read all of them as "abandoned cart" in your dashboard.
+
+None of these show up as a line item. That is exactly why they persist.
+
+Save this, then run the five point audit on your own last week.
+
+Which of the five is worst in your store? Number it in the comments.
+
+#Shopify #ShopifyStore #ShopifyStoreOwner #EcommerceBusiness #DTCBrand #EcommerceTips #ShopifyApps #EcommerceGrowth #CustomerExperience #CustomerSupport #AskZoye #AskZoyeAI #EcommerceAnalytics #ConversionRateOptimization #AbandonedCart #RevenueLeaks

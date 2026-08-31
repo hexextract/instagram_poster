@@ -1,0 +1,25 @@
+One question. Two systems. Watch where the conversation dies.
+
+Message one, and both of them look fine.
+
+"What is your returns policy?" The rule based bot matches the keyword "returns" and pastes the returns article. The agent retrieves your policy page and answers in two lines. Both correct.
+
+This is the message every demo shows you.
+
+Message two is where it dies.
+
+"I bought it 34 days ago though."
+
+The bot has no keyword match for that. So it says "let me connect you to an agent," and nobody is online, and the conversation is over.
+
+The agent checks the order date, checks the policy window, explains the position, and offers the exchange. Resolved.
+
+The actual difference is matching versus understanding. A bot looks for words it was told about and then sends you somewhere else. An agent works out what you want, checks the store, and finishes the job.
+
+So here is your two minute test for any vendor, and run it on your own widget too. Ask a question with a specific product in it. Then contradict yourself slightly. Then ask something adjacent but not identical. Count the messages before it offers you a human.
+
+Never judge a bot on message one. Which is exactly why demos are always one message long.
+
+Save this as your evaluation cheat sheet.
+
+#Shopify #ShopifyStore #ShopifyStoreOwner #EcommerceBusiness #DTCBrand #EcommerceTips #ShopifyApps #EcommerceGrowth #CustomerExperience #CustomerSupport #AskZoye #AskZoyeAI #AIAgents #Chatbots #EcommerceAI #VendorEvaluation

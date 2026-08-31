@@ -1,0 +1,39 @@
+Every great support reply has the same five parts. Most replies have two.
+
+Here is the two part version, which is what most of them look like:
+
+"Sorry about that! I have raised it with the courier and will update you when I hear back."
+
+Polite, prompt, and the customer still has no idea what happens next or when.
+
+The five parts, in this order, because the order matters:
+
+1. Acknowledge. One line. Name the actual problem, not "your enquiry".
+
+2. Answer directly. The answer goes second, never last.
+
+3. Show the evidence. The tracking event, the policy line, the order date.
+
+4. State what happens next. Who does what, by when.
+
+5. Close the loop. Come back when it is done, unprompted.
+
+The same reply, rebuilt:
+
+"Your parcel was marked delivered at 11:40 on Tuesday to the front porch. That is a courier scan, not a signature, so it can be wrong. I have opened a missing parcel claim, reference 4471. The courier has 48 hours. If it is not found by Thursday I send a replacement that day, no further action from you."
+
+Same facts. Five parts.
+
+Two of these get skipped almost universally, and they are the two that build trust.
+
+Answering second. The most common structural mistake is burying the answer under three sentences of apology. People scan for one thing and it should be in line two.
+
+Showing evidence. "Your policy says 30 days" is an assertion. "You ordered on 3 March, which is day 34 of a 30 day window" is a shared fact. One invites an argument, the other ends it.
+
+Never write "as per our policy". It reads as a door closing.
+
+Save this and hold your next ten replies against it.
+
+Which of the five does your store skip most? Number in the comments.
+
+#Shopify #ShopifyStore #ShopifyStoreOwner #EcommerceBusiness #DTCBrand #EcommerceTips #ShopifyApps #EcommerceGrowth #CustomerExperience #CustomerSupport #AskZoye #AskZoyeAI #CustomerServiceTips #SupportTraining #CustomerExperience #EcommerceCX

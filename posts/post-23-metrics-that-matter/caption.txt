@@ -1,0 +1,25 @@
+Your support dashboard is full of numbers designed to make you feel fine.
+
+Three of them are real. The rest are decoration.
+
+Start with the flattering ones, because they all measure the same thing: how well you hid.
+
+Ticket volume falls when people stop bothering to ask. Deflection rate counts a closed tab as a win. Average handle time rewards short replies, not solved problems. CSAT on solved tickets surveys only the people who stayed.
+
+Now the three worth tracking.
+
+First response time. Median, not mean, including nights and weekends. The gap between what gets reported and what customers experience is usually enormous, because the reported figure quietly excludes the sixteen hours nobody was working.
+
+True resolution. Solved, first time, no follow up message. Not closed, not deflected, solved. Closed is your view of the ticket. Resolved is theirs.
+
+Repeat contact rate. How often somebody comes back a second time about the same thing. It is the single most honest number in support and almost nobody tracks it. High repeat rate with great CSAT means you are pleasant and not helpful.
+
+That is the entire dashboard. Everything else is context at best.
+
+One reason to do this now rather than later: pick your metrics before somebody sells you a tool. Every vendor, us included, looks excellent against metrics they chose themselves. Choose yours first and you get to judge everybody by the same rule.
+
+Save this.
+
+Which metric does your team actually report? Be honest.
+
+#Shopify #ShopifyStore #ShopifyStoreOwner #EcommerceBusiness #DTCBrand #EcommerceTips #ShopifyApps #EcommerceGrowth #CustomerExperience #CustomerSupport #AskZoye #AskZoyeAI #SupportMetrics #CustomerServiceKPI #EcommerceAnalytics #CSAT

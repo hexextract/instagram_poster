@@ -1,0 +1,34 @@
+name: Refresh Instagram token
+
+on:
+  schedule:
+    - cron: "0 6 1 * *" # monthly, on the 1st — long-lived tokens last 60 days
+  workflow_dispatch: {}
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Refresh long-lived token and update secret
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          FB_APP_ID: ${{ secrets.FB_APP_ID }} # only for Facebook Login tokens
+          FB_APP_SECRET: ${{ secrets.FB_APP_SECRET }} # only for Facebook Login tokens
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          set -euo pipefail
+          if [ -n "${FB_APP_SECRET:-}" ]; then
+            # Facebook Login token: re-exchange via the app credentials
+            NEW_TOKEN=$(curl -sf -G "https://graph.facebook.com/v23.0/oauth/access_token" \
+              --data-urlencode "grant_type=fb_exchange_token" \
+              --data-urlencode "client_id=${FB_APP_ID}" \
+              --data-urlencode "client_secret=${FB_APP_SECRET}" \
+              --data-urlencode "fb_exchange_token=${IG_ACCESS_TOKEN}" | jq -er '.access_token')
+          else
+            # Instagram Login token: refresh directly, no app secret needed
+            NEW_TOKEN=$(curl -sf -G "https://graph.instagram.com/refresh_access_token" \
+              --data-urlencode "grant_type=ig_refresh_token" \
+              --data-urlencode "access_token=${IG_ACCESS_TOKEN}" | jq -er '.access_token')
+          fi
+          gh secret set IG_ACCESS_TOKEN --repo "${GITHUB_REPOSITORY}" --body "${NEW_TOKEN}"
+          echo "IG_ACCESS_TOKEN secret updated."

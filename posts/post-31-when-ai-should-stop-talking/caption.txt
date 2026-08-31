@@ -1,0 +1,27 @@
+Automation's hardest skill isn't answering. It's knowing when to stop.
+
+Four hard stops. These belong to a human immediately, regardless of how confident the system is.
+
+An angry customer. Anger is not a support ticket, it is a relationship problem.
+
+Anything about money in dispute. Refunds under argument, chargebacks, double charges.
+
+Damaged or missing goods. Somebody has lost something and that needs a person.
+
+Anything ambiguous. If confidence is low, stop. Do not have a go.
+
+And a fifth that overrides everything: if they asked for a human, that is the whole test. Nothing else needs checking.
+
+The part that gets built badly is the handoff itself. A handoff without context is just a transfer, and the worst experience in support is explaining the whole thing twice. If the human starts from "how can I help", the automation made things worse rather than better.
+
+What should travel with the conversation: the full history, the order it relates to, what was already checked and ruled out, and why it escalated.
+
+Worth being clear about the position here, because it is the opposite of the one people expect. This is the pro human argument. The value is not a person doing fewer things. It is a person arriving at the four conversations that were always worth their attention, already briefed, instead of reaching the angry one at 5pm after a day of sizing questions.
+
+Write your handoff policy before you automate anything, even if the automation is a holiday autoresponder. The list of things you will never let software handle is the most useful support document you will write this year.
+
+Save this as your starting point.
+
+What would you add to the four?
+
+#Shopify #ShopifyStore #ShopifyStoreOwner #EcommerceBusiness #DTCBrand #EcommerceTips #ShopifyApps #EcommerceGrowth #CustomerExperience #CustomerSupport #AskZoye #AskZoyeAI #HumanInTheLoop #CustomerService #AIEthics #SupportStrategy

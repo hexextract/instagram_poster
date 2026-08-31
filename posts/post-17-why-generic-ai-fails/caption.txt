@@ -1,0 +1,21 @@
+ChatGPT can write you a sonnet. It cannot tell your customer where their parcel is.
+
+Month two starts here, and it starts with the obvious fix.
+
+The confusion is between fluency and knowledge. A general model has read the internet. It has never read your store. Those are different qualifications and only one of them is on the job description.
+
+What it has: language, reasoning, tone, confidence. Genuinely excellent, all four.
+
+What it lacks: your catalogue, your stock levels, your policies, their order. All four are the job.
+
+There is no wire between the model and your store. A shopper asks about a real product, the model has no catalogue feed, no inventory, no order lookup, and it answers anyway, because answering is the only thing it knows how to do.
+
+The result is beautifully written and completely useless. "Our merino crew is a customer favourite and typically restocks every few weeks, do check back soon." Three sentences, no stock check, no date, no product, nobody helped.
+
+And a wrong answer is not neutral. It is a promise made in your name, in your brand voice, on your website. No answer costs you one sale. A confident wrong answer costs you the sale, the refund, and the review.
+
+Here is the test to run on anything. Ask it something only your store could know. Not "what is your returns policy". Ask whether a specific product is in stock in a specific size. Whatever comes back tells you which kind of system you are looking at.
+
+Save this before you evaluate another chatbot.
+
+#Shopify #ShopifyStore #ShopifyStoreOwner #EcommerceBusiness #DTCBrand #EcommerceTips #ShopifyApps #EcommerceGrowth #CustomerExperience #CustomerSupport #AskZoye #AskZoyeAI #AIChatbot #EcommerceAI #ChatGPT #AIForBusiness

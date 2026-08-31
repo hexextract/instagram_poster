@@ -1,0 +1,21 @@
+Here's the ROI maths without the invented percentages.
+
+Every number below is one you can replace with your own. That is the entire point of it.
+
+Step 1. Count your repetitive tickets. Use the audit from post 28 if you ran it, otherwise count one normal week. Say 210 tickets, of which roughly 70% are the same eight questions. About 147.
+
+Step 2. Multiply by minutes. Ninety seconds is fair for reading a question, checking one thing and writing a proper reply. Use two minutes if you are being honest about context switching. 147 by 1.5 minutes is about 3.7 hours a week.
+
+Step 3. Price the founder hours. 3.7 hours across 13 weeks is about 48 hours a quarter. Six working days, spent on eight questions you have already answered a hundred times.
+
+Step 4. The other side. About 1,911 repetitive queries a quarter at about twelve cents a resolved query is about $229.
+
+So: 48 hours against roughly $229.
+
+Whether that trade is good depends entirely on what your 48 hours are worth, and only you know that.
+
+What this maths deliberately ignores, because we cannot prove it: sales saved by answering at 2am, baskets kept by catching one doubt at checkout, markets opened by answering in 50+ languages. All real, none counted here. The case above is made on repetition alone.
+
+Run your numbers and post the total. If the maths does not work for your store, say so and we will publish that too.
+
+#Shopify #ShopifyStore #ShopifyStoreOwner #EcommerceBusiness #DTCBrand #EcommerceTips #ShopifyApps #EcommerceGrowth #CustomerExperience #CustomerSupport #AskZoye #AskZoyeAI #ROI #EcommerceFinance #BusinessCase #SmallBusinessTips

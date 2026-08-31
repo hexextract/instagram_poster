@@ -1,0 +1,41 @@
+name: Post to Instagram
+
+on:
+  schedule:
+    - cron: "0 9 * * *" # daily at 09:00 UTC — adjust to taste
+  workflow_dispatch: {} # allow manual runs from the Actions tab
+
+permissions:
+  contents: write # needed to commit posted.json back
+
+concurrency:
+  group: instagram-post
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests
+
+      - name: Publish next queued post
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+        run: python poster.py
+
+      - name: Record published post
+        run: |
+          if ! git diff --quiet posted.json 2>/dev/null; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add posted.json
+            git commit -m "Mark post as published"
+            git push
+          fi

@@ -1,0 +1,27 @@
+Grounding. Deflection. Containment. Handoff. Here's what vendors mean, and what they're hoping you won't ask.
+
+Eight terms, one honest translation each.
+
+Grounding. Every answer is built from a fact retrieved out of your real store data. The only term here that changes whether an answer can be trusted. Always ask what, specifically, it is grounded in.
+
+Deflection rate. The share of conversations that never reached a human. Translation: how many people gave up. Somebody who closed the tab in frustration is counted here as a success.
+
+Containment. Deflection rate wearing a friendlier word. Same metric, same problem.
+
+Handoff. Passing a conversation to a human. Ask whether the context travels with it. A handoff that makes the customer start again is not a handoff, it is a transfer.
+
+Intent. What the customer wants, as opposed to the words they typed. Keyword bots match words, agents infer intent.
+
+Hallucination. A confident answer with no source behind it. In ecommerce it is not a quirk, it is a promise you now own.
+
+First response time. How long before the customer hears anything at all. The only speed number they personally experience.
+
+True resolution. Solved, first time, no second message. The honest version of every other metric on this list.
+
+Take these into your next demo call. When a vendor uses one, ask them to define it out loud. The definition you get back is more informative than the demo.
+
+Save this for later, it is the reference one.
+
+Which term have you heard used most loosely? The winner gets its own post.
+
+#Shopify #ShopifyStore #ShopifyStoreOwner #EcommerceBusiness #DTCBrand #EcommerceTips #ShopifyApps #EcommerceGrowth #CustomerExperience #CustomerSupport #AskZoye #AskZoyeAI #AIGlossary #EcommerceAI #SaaSBuying #AIExplained

@@ -1,0 +1,21 @@
+The eight questions we get asked before every install, answered plainly. Including the two we would rather not be asked.
+
+1. How long does setup take? About a minute, no code. Install, it reads your catalogue and policies, you set the tone, you ask it a real question. The honest caveat: getting it genuinely good takes an afternoon, because that is how long it takes to write down the ten answers from post 27.
+
+2. What data does it get? Products, inventory, published policies, and the order belonging to whoever is asking. Read only, no write access. It cannot change your store, so the worst case is a bad answer and never an altered price or order.
+
+3. Will it sound like us? It inherits your voice from your own written answers, with formality and length as settings and a list of words it must never use. It will not beat your best reply written with care at 11pm. It beats your fourth macro of the afternoon.
+
+4. How many languages? More than fifty, and the reply leaves in whichever language the question arrived in, grounded in the same catalogue data rather than passed through a translation layer.
+
+5. When does a human get involved? Anger, disputed money, damaged or missing goods, anything ambiguous, and any time somebody asks for a person. The full conversation goes with it. If it is unsure, it stops.
+
+6. How accurate is it? The wrong question, honestly. It answers from facts retrieved out of your store, and where it cannot retrieve one it is built to say so. Ask us and every other vendor the better question instead: what does it do when it cannot find the answer?
+
+7. What does it cost? About twelve cents a resolved query. Priced on what it resolves, so a quiet month costs less than a busy one.
+
+8. Can we leave? Uninstall from your Shopify admin like any other app. Access revoked immediately, data deleted.
+
+Ninth question? Ask it below and we will answer publicly, including the awkward ones.
+
+#Shopify #ShopifyStore #ShopifyStoreOwner #EcommerceBusiness #DTCBrand #EcommerceTips #ShopifyApps #EcommerceGrowth #CustomerExperience #CustomerSupport #AskZoye #AskZoyeAI #AskZoye #ShopifyApps #FAQ #EcommerceTools

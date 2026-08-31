@@ -1,0 +1,21 @@
+Four steps between a shopper's question and an answer you'd have written yourself.
+
+Thirty two posts in, here is the thing we actually build. Mechanism, not a feature list.
+
+Step 1. It reads your store. Products, variants, stock, prices, policies, shipping rules. Read only, on install, kept current after that. This is the part that takes about a minute.
+
+Step 2. It retrieves the relevant facts. Not everything it knows. The specific product, the specific variant, the specific policy line that answers this exact question. Retrieval comes before language, every time, which is the grounding idea from week 6.
+
+Step 3. It answers in their language, in about 3 seconds. Grounded in what it retrieved, written in your tone, in whichever of 50+ languages they asked in. At 2am on a Sunday at the same speed as a Tuesday lunchtime.
+
+Step 4. It hands off cleanly when it should. Against the policy from post 31: anger, money in dispute, damaged goods or anything ambiguous goes to a person immediately, with the whole conversation attached.
+
+What it answers is the repetitive majority. Sizing and fit, stock and restocks, shipping and duties, policy questions, order status.
+
+What you answer is what was always worth your attention, already briefed.
+
+Read, retrieve, answer, hand off. No decision trees to draw, no macros to maintain, no new hires. Live in about a minute, with no code.
+
+Questions about any step? Ask below and we will answer all of them.
+
+#Shopify #ShopifyStore #ShopifyStoreOwner #EcommerceBusiness #DTCBrand #EcommerceTips #ShopifyApps #EcommerceGrowth #CustomerExperience #CustomerSupport #AskZoye #AskZoyeAI #AskZoye #ShopifyApps #AICustomerService #EcommerceAI

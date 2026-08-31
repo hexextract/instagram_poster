@@ -1,0 +1,19 @@
+Here's what our AI will never do. In writing.
+
+Published deliberately, so you can hold us to it.
+
+It will never invent a product fact. If a specification is not in your catalogue it does not exist as far as the agent is concerned. No inferring, no reasonable assumptions, no filling the gap with what similar products usually are. Asked "it's waterproof, right?" about a water resistant item, it says so.
+
+It will never promise a refund it cannot authorise. It can explain your policy and where an order sits against it. It cannot decide an exception, because exceptions are a commercial judgement and they stay yours.
+
+It will never argue with an angry customer. Anger is a hard stop, not a conversation to win. It hands the whole thing to a person immediately, with the history attached, and stops talking.
+
+It will never hide that it is an AI. No invented human name, no fake typing delay to seem more person like. Asked directly whether it is a person, the answer is no.
+
+Why publish limits rather than features. Anyone can claim capability, and every vendor does. A published constraint is checkable, and it is the only kind of promise that costs the person making it something.
+
+Every one of those four is a thing we could ship and chose not to. Every one makes a demo slightly less impressive. All four exist because the alternative eventually costs you money.
+
+Anything you'd add to this list? We're listening, and we will add the good ones.
+
+#Shopify #ShopifyStore #ShopifyStoreOwner #EcommerceBusiness #DTCBrand #EcommerceTips #ShopifyApps #EcommerceGrowth #CustomerExperience #CustomerSupport #AskZoye #AskZoyeAI #AskZoye #AITransparency #TrustworthyAI #ProductPrinciples

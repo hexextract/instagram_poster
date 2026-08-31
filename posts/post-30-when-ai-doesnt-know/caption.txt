@@ -1,0 +1,29 @@
+The most important thing an AI can say is "I don't know."
+
+It is also the hardest thing to build.
+
+Left alone, a language model treats every question as a request to produce text. There is nothing in it that naturally prefers silence, so the preference has to be built in deliberately, against the grain of what the thing wants to do.
+
+Three behaviours make the difference.
+
+Refuse to guess. No source means no answer, even when a guess would sound completely fine.
+
+Show the source. Where the answer came from, so it can be checked.
+
+Escalate cleanly. With the full conversation attached, so nobody has to repeat themselves.
+
+A good "I don't know" still helps:
+
+"I do not have a restock date for the navy, so I do not want to guess at one. I have sent this to the team with your question attached and you will hear back today. In the meantime the charcoal is in stock in your size."
+
+Nothing invented. Nobody sent in a circle. The shopper still has something to do next.
+
+Here is the reframe worth taking away. A system that never says "I do not know" is not more capable, it is less honest. It will look better in a demo and you will find out the difference on a Tuesday afternoon when a customer quotes it back to you.
+
+So ask any vendor what it says when it cannot find the answer. If the reply is that it always finds one, you have learned everything you need to know.
+
+Save this.
+
+Would you rather a bot guess or admit it? Genuinely curious how this splits.
+
+#Shopify #ShopifyStore #ShopifyStoreOwner #EcommerceBusiness #DTCBrand #EcommerceTips #ShopifyApps #EcommerceGrowth #CustomerExperience #CustomerSupport #AskZoye #AskZoyeAI #AITransparency #TrustworthyAI #AISafety #CustomerExperience

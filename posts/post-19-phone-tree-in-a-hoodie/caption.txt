@@ -1,0 +1,17 @@
+A menu of buttons is not AI. It's a phone tree in a hoodie.
+
+"Hi! I can help with: 1 Orders, 2 Returns, 3 Something else."
+
+"3."
+
+"Hi! I can help with: 1 Orders, 2 Returns, 3 Something else."
+
+Most "AI chat" on ecommerce sites is decision tree software with a new label and a nicer font. Same architecture as the phone menu you hated in 2009, same failure mode, better typography.
+
+The tell is always option three. Every one of these systems has a "something else" branch, and every one of them handles it by looping, apologising, or offering a human who is not online.
+
+None of that is a criticism of automation. It is a criticism of pretending. Call it a help menu and it is a perfectly good help menu.
+
+Seen one lately? Describe it without naming it.
+
+#Shopify #ShopifyStore #ShopifyStoreOwner #EcommerceBusiness #DTCBrand #EcommerceTips #ShopifyApps #EcommerceGrowth #CustomerExperience #CustomerSupport #AskZoye #AskZoyeAI #Chatbots #AIWashing #EcommerceTech #CustomerService

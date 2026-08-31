@@ -1,0 +1,33 @@
+Here's exactly what our AI can see in your store. And what it can't.
+
+This is the last question people ask before installing, so we are answering it publicly rather than one at a time in DMs.
+
+What it reads, all read only:
+
+Products, variants, prices and descriptions.
+
+Inventory levels.
+
+Published policies and store pages.
+
+Order status, for the customer asking about their own order.
+
+What it never touches:
+
+Payment details or card data.
+
+Your customer list, in bulk.
+
+Write access to products or orders.
+
+Anything in your Shopify admin settings.
+
+The word doing the work there is scoped. When a customer asks about their order it can see that order. It cannot browse your order history, export a customer list, or answer a question about somebody else's purchase.
+
+And the important one: it has no write access to anything. It cannot change a price, edit an order, alter stock, issue a refund or publish a page. Every scope it holds is read only, which means the worst case is a bad answer and never an altered store.
+
+Leaving is the normal Shopify path. Uninstall from your admin, access is revoked immediately, and store data is deleted on request and by default on a defined schedule.
+
+Any data question we haven't answered? Ask below and we will answer it publicly.
+
+#Shopify #ShopifyStore #ShopifyStoreOwner #EcommerceBusiness #DTCBrand #EcommerceTips #ShopifyApps #EcommerceGrowth #CustomerExperience #CustomerSupport #AskZoye #AskZoyeAI #DataPrivacy #ShopifyApps #EcommerceSecurity #AskZoye

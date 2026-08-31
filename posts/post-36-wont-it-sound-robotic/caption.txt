@@ -1,0 +1,27 @@
+The fear isn't that AI answers. It's that it answers like a call centre.
+
+This is the objection we hear most and it is completely reasonable. Here is what people are picturing:
+
+"Thank you for contacting us. We appreciate your patience. Regarding your enquiry, please be advised that stock availability is subject to change."
+
+They are right to fear it. That reply is worse than no reply.
+
+The difference is where tone comes from. A generic system ships with a default corporate voice you then have to fight. A grounded one starts from your own written answers and product copy, so it inherits your voice rather than importing one. If your store says "chuck it in the wash", so does the agent.
+
+Same fact, three brands:
+
+"Navy is back in stock in M and L. Grab it before it goes again."
+
+"The navy has returned in medium and large. Do let me know if you would like it set aside."
+
+"Navy: restocked. M and L available now."
+
+What you actually set is two sliders, formality and length, plus a list of words it must never say and a list it should. The never list is the one that matters. Most brands have three or four words they would rather die than use.
+
+The honest caveat, because you should have it. It will not sound like you on your best day. A founder writing one thoughtful reply at 11pm will always beat it, and nothing changes that. The comparison that matters is against your fourth macro of the afternoon, or against nine hours of silence.
+
+Write down the one phrase your brand would never say. That single line is most of brand voice configuration and almost nobody thinks to write it down.
+
+What's yours? Ours is "we appreciate your patience."
+
+#Shopify #ShopifyStore #ShopifyStoreOwner #EcommerceBusiness #DTCBrand #EcommerceTips #ShopifyApps #EcommerceGrowth #CustomerExperience #CustomerSupport #AskZoye #AskZoyeAI #BrandVoice #DTCBrand #AICustomerService #EcommerceBranding
