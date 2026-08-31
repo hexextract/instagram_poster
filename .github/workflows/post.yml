@@ -2,7 +2,9 @@ name: Post to Instagram
 
 on:
   schedule:
-    - cron: "0 9 * * *" # daily at 09:00 UTC — adjust to taste
+    # Mon/Wed/Fri at 10:17 UTC — mid-morning for UK/EU audience, the peak
+    # engagement window. Off-hour minute avoids GitHub's cron queue delays.
+    - cron: "17 10 * * 1,3,5"
   workflow_dispatch: {} # allow manual runs from the Actions tab
 
 permissions:
